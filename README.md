@@ -1,6 +1,6 @@
 # BLood Management
 
-Blood Management is a robust and user-friendly web application built using the MERN stack (MongoDB, Express, React, Node.js). It enables patients, hospitals, and donors to seamlessly register, manage blood donation records, and request blood in a secure and efficient manner.
+Blood Management App is a robust and user-friendly web application built using the MERN stack (MongoDB, Express, React, Node.js). It enables patients, hospitals, and donors to seamlessly register, manage blood donation records, and request blood in a secure and efficient manner.
 ![Screenshot 2025-03-31 180035](https://github.com/user-attachments/assets/9aa55f13-bd88-41ea-a49c-c82ef9cf2d50)
 
 
